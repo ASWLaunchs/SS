@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ss-card {
+    width: 80vw;
+    min-height: 300px;
+    border-radius: 7px;
+    overflow-y: scroll;
+}
+
+.ss-card .title {}
+
+.ss-card .content {
+    width: 92%;
+    margin: 14px auto;
+    font-size: 14px;
+    padding: 4px 0px;
+    text-align: left;
+    text-indent: 2em;
+    background-color: rgb(255, 255, 255);
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.ss-card .mark {
+    font-size: 10px;
+}
+
+.ss-card .evaluation {
+    position: relative;
+    margin: 14px auto;
+    bottom: 0;
+}
+
+.ss-card .evaluation span {
+    margin-right: 0.2em;
+    font-weight: bold;
+    color: rgb(133, 133, 133);
+}
