@@ -1,11 +1,9 @@
-# SS
-SS是一款专门为社会服务工作项目而创建的UI框架。
-
-# 快速开始
-`<link rel="stylesheet" href="/your path/ss.css">`
+# ToolBox
+front-end tool.
+serve for everyone.
 
 
-# 卡片
+# card
 <img src='./example/ss-card.png'>
 
 ```
